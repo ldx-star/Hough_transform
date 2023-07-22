@@ -1,0 +1,4 @@
+/media/liangdaxin/sd1/computer_vision/Hough_transform/cmake-build-debug/CMakeFiles/lib.dir
+/media/liangdaxin/sd1/computer_vision/Hough_transform/cmake-build-debug/CMakeFiles/Hough_transform.dir
+/media/liangdaxin/sd1/computer_vision/Hough_transform/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/liangdaxin/sd1/computer_vision/Hough_transform/cmake-build-debug/CMakeFiles/rebuild_cache.dir
